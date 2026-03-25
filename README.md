@@ -1,5 +1,5 @@
-## Hi, Greg here 👋
-<placeholder> Bridging 20 years of product leadership with AI-driven innovation to redefine B2B SaaS growth and customer experience </placeholder>
+## Hi, Greg here
+<placeholder> *Bridging 20 years of SaaS product leadership with AI-driven innovation to redefine B2B SaaS growth and customer experience*... but this is pretty much personal projects for now. </placeholder>
 <!--
 **gregmadianos/gregmadianos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
