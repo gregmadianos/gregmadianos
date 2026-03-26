@@ -3,7 +3,7 @@
 Longtime SaaS Products person, from IC to VP. Bay Area ➔ Austin.
 
 ### Working On
-- **Rapid Prototypes**... several, using different approaches from one-shots in Opal and v0 to deeper work with the usual suspects (CC, Codex, Cursor, Antigravity) in combination with n8n, MCPs, etc. Goal is clarifying *what works well enough (not just best) when and for whom*, vs reflexively pulling out Opus 4.x. _Tho tough to argue with Opus 4.x efficiency + quality_...
+- **Rapid Prototypes**... several, taking multiple approaches from Opal mini-apps to v0 vibe coding to deeper work with the usual suspects (_CC, Codex, Cursor, Antigravity_) in combo w n8n, MCPs, etc. Goal is clarifying *what works well enough when and for whom*, vs reflexively pulling out Opus 4.x. _Tho tough to argue with Opus 4.x efficiency + quality_...
 - **Skills**... perpetually refining a personal library for use across agents
 - **Playlist Manager** (*name TBD*)... easier way to manage Spotify playlists off-app... then expand to other platforms (YT etc)
 
