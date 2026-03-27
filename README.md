@@ -3,9 +3,9 @@
 Longtime SaaS Products person, from IC to VP. Bay Area ➔ Austin.
 
 ### Working On
-- **Rapid Prototypes**... several, multiple approaches from Opal mini-apps to v0 vibing to deeper work with CC and Antigravity in combo w n8n and MCPs. Goal is clarifying *what works well enough when and for whom*, vs reflexively pulling out Opus 4.x. _Tho tough to argue with Opus 4.x_...
+- **Rapid Protos**... several, multiple approaches using Opal to v0 to deeper work with CC and Antigravity in combo w n8n and MCPs. Clarifying *what works well enough when and for whom*, vs reflexively pulling out Opus 4.x. _Tho tough to argue with Opus 4.x_...
 - **Skills**... perpetually refining a personal library for use across agents
-- **Playlist Manager** (*name TBD*)... easier way to manage Spotify playlists off-app... then expand to other platforms (YT etc)
+- **Playlist Manager** (*name TBD*)... easier way to manage Spotify playlists off-app... then add platforms (YT etc)
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/gregmadianos/)
