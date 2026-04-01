@@ -3,8 +3,8 @@
 Longtime SaaS Products person, from IC to VP. Bay Area ➔ Austin.
 
 ### Working On
-- **Rapid Protos**... several, using multiple approaches ranging from Opal to v0 to CC and Antigravity in combo w n8n and MCPs. Clarifying *what works well enough when and for whom* vs reflexively using Claude. _Tho it's really tough to argue w the quality + speed of Opus 4.x_...
-- **Skills**... personal library for use across agents
+- **Rapid Protos**... several approaches, from Opal to v0 to CC and Antigravity in combo w n8n and MCPs. Clarifying *what works well enough when and for whom*
+- **Skills**... personal library
 - **Playlist Manager** (*name TBD*)... easier way to manage Spotify playlists off-app... then add platforms (YT etc)
 
 ### Connect
